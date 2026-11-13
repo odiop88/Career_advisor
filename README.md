@@ -1,4 +1,4 @@
-# Science2Voice Career Matching Experiment in Jupyter
+# Science2Voice Career Matching Experiment
 
 This lab uses the Streamlit assessment fields and the 15 career pathway families in the pilot. You fine-tune an embedding model to rank pathways, then compare three ranking methods on the same profiles. The experiment runs without a generative AI API.
 
